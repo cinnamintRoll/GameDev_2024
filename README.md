@@ -1,14 +1,11 @@
-# 🎮 GameDev Compilation Year 4.1
+# 🎮 GameDev Compilation 2024 (Second Split)
 
-Welcome to my Game Development Compilation for Year 4, Term 1!  
-This repository showcases my progress, practice, and output across several subjects—most notably, **Computer Graphics Programming (CGP)** and **Advanced Game Programming (AGP)**. From vector fundamentals to explosive midterm showcases, this repo captures it all.
+Welcome to my Game Development Compilation for 2024 (Second Split)
 
----
+## 🧠 Features & Skills Demonstrated
 
-## 🧠 Skills Demonstrated
-
-- Custom particle effects
-- Real-time rendering logic
-- Clean, modular scene setup
-- Efficient folder/file management for scalability
-- Integration of core Unity packages like TextMesh Pro
+- 🔧 **Vector Math**: Direction, magnitude, and force-based calculations.
+- 💥 **Physics-Based Explosions**: Using Rigidbody, Force Modes, and timing.
+- 🧩 **Scene Logic**: Structuring rooms and simulations for predictable behavior.
+- 🗂️ **Project Organization**: Clean file/folder hierarchy and naming conventions.
+- 🖋️ **TextMesh Pro Integration**: Clear UI with modern text rendering.
