@@ -1,4 +1,4 @@
-# 🎮 GameDev Compilation Year 4.1
+# 🎮 GameDev Compilation 2024
 
 Welcome to my Game Development Compilation for Year 4, Term 1!  
 This repository features work that covers everything from foundational vector math to dynamic particle systems like explosions and fireworks.
